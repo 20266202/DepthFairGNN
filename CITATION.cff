@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "DepthFairGNN"
+authors:
+  - name: "DepthFairGNN Authors"
+year: 2026
+license: MIT

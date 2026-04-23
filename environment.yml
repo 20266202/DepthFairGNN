@@ -1,0 +1,19 @@
+name: depthfairgnn
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - pytorch
+  - pyg
+  - tqdm
+  - jupyter
+  - ipykernel
+  - pip
+
